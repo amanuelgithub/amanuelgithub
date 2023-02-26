@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hello their 👋, I'm Amanuel Girma</h1>
-<h3 align="center">I'm Professional Software Developer.</h3>
+<h3 align="center">I'm a Professional Software Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.iroidtechnologies.com/static/home/images/oew_rrybb.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanuelgithub&label=Profile%20views&color=0e75b6&style=flat" alt="amanuelgithub" /> </p>
